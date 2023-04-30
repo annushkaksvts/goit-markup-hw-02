@@ -64,10 +64,10 @@ body {
 
 .menu-link:hover,
 .menu-link:focus {
-	color: var(--iris-web);
+	color: var(--hover-focus);
 }
 
-.address-list {
+.address {
 	font-style: normal;
 	font-weight: 400;
 	font-size: 16px;
@@ -117,7 +117,7 @@ body {
 .filtrbtn:hover,
 .filtrbtn:focus {
 	color: var(--white-kolor);
-	background-color: var(--hover-focus);
+	background-color: var(--ocean-color);
 }
 
 /* Header 3 */
