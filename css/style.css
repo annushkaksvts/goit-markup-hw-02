@@ -21,9 +21,11 @@
 .list {
 	list-style: none;
 }
+
 .link {
 	text-decoration: none;
 }
+
 body {
 	background-color: #ffffff;
 	font-family: "Roboto", sans-serif;
@@ -184,9 +186,10 @@ body {
 }
 
 .footer-logo {
+	font-family: "Raleway";
 	font-weight: 800;
 	font-size: 18px;
-	line-height: 21px;
+	line-height: 1.17px;
 	display: flex;
 	align-items: center;
 	letter-spacing: 0.03em;
@@ -195,9 +198,10 @@ body {
 }
 
 .footer-logosp {
+	font-family: "Raleway";
 	font-weight: 800;
 	font-size: 18px;
-	line-height: 21px;
+	line-height: 1.17px;
 	display: flex;
 	align-items: center;
 	letter-spacing: 0.03em;
