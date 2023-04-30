@@ -21,7 +21,7 @@
 .list {
 	list-style: none;
 }
-a {
+.link {
 	text-decoration: none;
 }
 body {
@@ -30,12 +30,14 @@ body {
 	color: var(--secondary-text-color);
 }
 
+/* header */
+
 .logo {
 	font-family: "Raleway", sans-serif;
 	font-style: normal;
 	font-weight: 800;
 	font-size: 18px;
-	line-height: 1.2;
+	line-height: 1.17;
 	display: flex;
 	align-items: center;
 	letter-spacing: 0.03em;
