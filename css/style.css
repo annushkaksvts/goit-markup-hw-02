@@ -184,10 +184,24 @@ body {
 }
 
 .footer-logo {
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 21px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
 	color: var(--iris-web);
 }
 
 .footer-logosp {
+	font-weight: 800;
+	font-size: 18px;
+	line-height: 21px;
+	display: flex;
+	align-items: center;
+	letter-spacing: 0.03em;
+	text-transform: uppercase;
 	color: var(--color-text-p);
 }
 
