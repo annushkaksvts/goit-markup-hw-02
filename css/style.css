@@ -103,11 +103,12 @@ body {
 	letter-spacing: 0.04em;
 	color: #ffffff;
 	cursor: pointer;
+	background-color: var(--iris-web);
 }
 
 .modal-btn:hover,
 .modal-btn:focus {
-	background-color: var(--iris-web);
+	background-color: var(--hover-focus);
 }
 
 .filtrbtn {
