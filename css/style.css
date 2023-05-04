@@ -141,7 +141,7 @@ body {
 	color: var(--title-text-color);
 }
 
-.h3-description {
+.title-description {
 	font-weight: 400;
 	font-size: 16px;
 	line-height: 1.5;
