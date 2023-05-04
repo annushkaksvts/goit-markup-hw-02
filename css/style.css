@@ -75,11 +75,13 @@ body {
 
 .add {
 	color: var(--secondary-text-color);
+	line-height: 1.5;
+	letter-spacing: 0.02em;
 }
 
 .add:hover,
 .add:focus {
-	color: var(--iris-web);
+	color: var(--ocean-color);
 }
 
 /* Header 1 */
@@ -90,7 +92,7 @@ body {
 .hero-title {
 	font-weight: 700;
 	font-size: 56px;
-	line-height: 1.1;
+	line-height: 1.07;
 	text-align: center;
 	letter-spacing: 0.02em;
 	color: #ffffff;
@@ -98,6 +100,7 @@ body {
 
 /* Button */
 .modal-btn {
+	font-family: "Roboto", sans-serif;
 	font-weight: 500;
 	font-size: 16px;
 	line-height: 1.5;
@@ -124,8 +127,13 @@ body {
 	background-color: var(--ocean-color);
 }
 
+.hidden {
+  color: var(--title-text-color);
+  font-style: normal;
+}
+
 /* Header 3 */
-.h3-list {
+.title {
 	font-weight: 500;
 	font-size: 20px;
 	line-height: 1.2;
