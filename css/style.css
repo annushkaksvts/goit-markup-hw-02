@@ -71,19 +71,14 @@ body {
 
 .address {
 	font-style: normal;
-	font-weight: 400;
-	font-size: 16px;
-	line-height: 1.5;
-	letter-spacing: 0.02em;
+}
+
+.add {
 	color: var(--secondary-text-color);
 }
 
-.address-list {
-	color: var(--secondary-text-color);
-}
-
-.address-list:hover,
-.address-list:focus {
+.add:hover,
+.add:focus {
 	color: var(--iris-web);
 }
 
