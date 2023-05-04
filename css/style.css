@@ -128,8 +128,8 @@ body {
 }
 
 .hidden {
-  color: var(--title-text-color);
-  font-style: normal;
+	color: var(--title-text-color);
+	font-style: normal;
 }
 
 /* Header 3 */
@@ -166,6 +166,23 @@ body {
 }
 /* Header 3 */
 
+.team {
+	background-color: var(--color-text-p);
+}
+
+.our-team {
+	font-size: 36px;
+	line-height: 1.11;
+	text-align: center;
+	letter-spacing: 0.02em;
+	text-transform: capitalize;
+	color: var(--title-text-color);
+}
+
+.team-list {
+	background-color: var(--white-kolor);
+}
+
 .list-title {
 	font-weight: 500;
 	font-size: 20px;
@@ -184,12 +201,12 @@ body {
 	color: var(--secondary-text-color);
 }
 
-.footer {       
+.footer {
 	background-color: #2e2f42;
 }
 
-.footer-logo {
-	font-family: "Raleway", sans-serif\zaZ\;
+.footerlg {
+	font-family: "Raleway", sans-serif;
 	font-weight: 800;
 	font-size: 18px;
 	line-height: 1.17;
