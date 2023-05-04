@@ -170,7 +170,7 @@ body {
 	background-color: var(--color-text-p);
 }
 
-.our-team {
+.team-our {
 	font-size: 36px;
 	line-height: 1.11;
 	text-align: center;
@@ -255,3 +255,12 @@ body {
 }
 
 /* PORTFOLIO  */
+.filtrbtnprt {
+	font-family: "Roboto";
+	letter-spacing: 0.04em;
+	font-weight: 500;
+	font-size: 16px;
+	line-height: 1.5px;
+	background-color: var(--color-text-p);
+	cursor: pointer;
+}
