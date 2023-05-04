@@ -256,11 +256,18 @@ body {
 
 /* PORTFOLIO  */
 .filtrbtnprt {
-	font-family: "Roboto";
+	font-family: "Roboto", sans-serif;
 	letter-spacing: 0.04em;
 	font-weight: 500;
 	font-size: 16px;
-	line-height: 1.5px;
+	line-height: 1.5;
+	color: var(--iris-web);
 	background-color: var(--color-text-p);
 	cursor: pointer;
+}
+
+.filtrbtnprt:hover,
+.filtrbtn:focus {
+	color: var(--white-kolor);
+	background-color: var(--ocean-color);
 }
