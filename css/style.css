@@ -267,7 +267,7 @@ body {
 }
 
 .filtrbtnprt:hover,
-.filtrbtn:focus {
+.filtrbtnprt:focus {
 	color: var(--white-kolor);
 	background-color: var(--ocean-color);
 }
